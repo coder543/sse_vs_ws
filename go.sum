@@ -2,5 +2,7 @@ github.com/AndrewBurian/eventsource v0.0.0-20170920221548-8d57873cbd48 h1:3Ch/9E
 github.com/AndrewBurian/eventsource v0.0.0-20170920221548-8d57873cbd48/go.mod h1:eO0e4MxwjJKxtLh/YT8as+VkGNyeamjjia3dYtveibY=
 github.com/gorilla/websocket v1.4.0 h1:WDFjx/TMzVgy9VdMMQi2K2Emtwi2QcUQsztZ/zLaH/Q=
 github.com/gorilla/websocket v1.4.0/go.mod h1:E7qHFY5m1UJ88s3WnNqhKjPHQ0heANvMoAMk2YaljkQ=
+github.com/nytimes/gziphandler v1.0.1 h1:l61fllsFfRKFsVPyoxPXove3+LrPzar9YGY0G7ZE2sg=
+github.com/nytimes/gziphandler v1.0.1/go.mod h1:aoXrYesf7JE+CbrHdmUhjwmpHH4uP0I27q7x/5gC1HA=
 golang.org/x/crypto v0.0.0-20181112202954-3d3f9f413869 h1:kkXA53yGe04D0adEYJwEVQjeBppL01Exg+fnMjfUraU=
 golang.org/x/crypto v0.0.0-20181112202954-3d3f9f413869/go.mod h1:6SG95UA2DQfeDnfUPMdvaQW0Q7yPrPDi9nlGo2tz2b4=
