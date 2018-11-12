@@ -1,0 +1,6 @@
+github.com/AndrewBurian/eventsource v0.0.0-20170920221548-8d57873cbd48 h1:3Ch/9EziTSBCtcxumqr381OHtUal65Xidvrs28j8bEI=
+github.com/AndrewBurian/eventsource v0.0.0-20170920221548-8d57873cbd48/go.mod h1:eO0e4MxwjJKxtLh/YT8as+VkGNyeamjjia3dYtveibY=
+github.com/gorilla/websocket v1.4.0 h1:WDFjx/TMzVgy9VdMMQi2K2Emtwi2QcUQsztZ/zLaH/Q=
+github.com/gorilla/websocket v1.4.0/go.mod h1:E7qHFY5m1UJ88s3WnNqhKjPHQ0heANvMoAMk2YaljkQ=
+golang.org/x/crypto v0.0.0-20181112202954-3d3f9f413869 h1:kkXA53yGe04D0adEYJwEVQjeBppL01Exg+fnMjfUraU=
+golang.org/x/crypto v0.0.0-20181112202954-3d3f9f413869/go.mod h1:6SG95UA2DQfeDnfUPMdvaQW0Q7yPrPDi9nlGo2tz2b4=
